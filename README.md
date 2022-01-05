@@ -1,4 +1,4 @@
-## Oii Sou João Marques!
+## Oii Sou João Marques! 👋
 ## 🚀 Sobre mim
 
 - 🌱 Sou novo na programação e atualmente estudo C# e javascript

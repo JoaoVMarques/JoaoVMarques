@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 
 - 🌱 Sou novo na programação e atualmente estudo C# e javascript
-- 🏅 Tenho objetivo de crescer e trabalhar como um programador back-end
+- 🏅 Tenho objetivo de crescer e trabalhar como um programador
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVMarques&show_icons=true&theme=radical)

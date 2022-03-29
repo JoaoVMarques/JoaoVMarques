@@ -1,8 +1,9 @@
 ## Oii Sou João Marques! 👋
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 - 🌱 Sou novo na programação e atualmente estudo C# e javascript
 - 🏅 Tenho objetivo de crescer e trabalhar como um programador
+- 🏫 Atualmente sou estudante da [Trybe](https://www.betrybe.com) (Turma: 22)
 ## 💻 Skills
 <div>
     <img align="center" alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">

@@ -1,13 +1,14 @@
 ## Oii Sou João Marques! 👋
 ### 🚀 Sobre mim
 
-- 🌱 Sou novo na programação e atualmente estudo C# e javascript
+- 🌱 Sou novo na programação e atualmente estudo Javascript e C#
 - 🏅 Tenho objetivo de crescer e trabalhar como um programador
-- 🏫 Atualmente sou estudante da [Trybe](https://www.betrybe.com) (Turma: 22)
-## 💻 Skills
-<div>
-    <img align="center" alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- 🏫 Atualmente sou estudante da [Trybe](https://www.betrybe.com) (Turma: 22b)
+#
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVMarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVMarques&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 

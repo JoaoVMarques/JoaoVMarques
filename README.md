@@ -12,8 +12,8 @@
       <a href="https://www.instagram.com/joaovictormarquesf_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## ☎️ Contatos
-Email: j.v.marques.fernandes@gmail.com <br>
-Celular: 51 984808164
+**Email**: j.v.marques.fernandes@gmail.com <br>
+**Celular**: 51 984808164
 #
 </div>
 <div align="center">

@@ -1,5 +1,6 @@
 ### Oii Sou João Marques! 👋
 <img align = "right" width = "380px"  src = "https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+
 ## 🚀 Sobre mim
 
 - 🌱 Sou um programador Full Stack.

@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Sou um programador Full Stack.
+- 🌱 Sou um desenvolvedor Full Stack.
 - 🏫 Atualmente sou estudante da [Trybe](https://www.betrybe.com) (Turma: 22b)
 - ⭐ Gosto muito de projetos desafiadores e trabalhar em equipe.
 

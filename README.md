@@ -4,7 +4,7 @@
 ## 🚀 Sobre mim
 
 - 🌱 Sou um desenvolvedor full-stack.
-- 🏫 Fomado na [Trybe](https://www.betrybe.com) (Turma: 22b)
+- 🏫 Formado na [Trybe](https://www.betrybe.com) (Turma: 22b)
 - ⭐ Gosto muito de projetos desafiadores e trabalhar em equipe.
 
 ## ☎️ Contatos

@@ -1,12 +1,8 @@
-# João Victor Marques Fernandes
-
-**Desenvolvedor Full-Stack** • Gravataí, RS
-
----
-
 ## Sobre mim
 
 Oii Sou João Marques! 👋
+
+**Desenvolvedor Full-Stack** • Gravataí, RS
 
 - 🎓 Graduando em **Ciência da Computação** pela Unifacvest e formado em **Desenvolvimento Web Full Stack** pela Trybe.
 - 💻 Experiência prática com arquitetura de APIs REST, bancos de dados relacionais e não relacionais, conteinerização e testes automatizados.
